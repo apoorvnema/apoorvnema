@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apoorv Nema</h1>
 <h3 align="center">Aspiring Full Stack Developer | Seeking Opportunities to Grow and Make an Impact</h3>
 
-- 👨‍💻 All of my projects are available at [apoorvnema.pro](https://www.apoorvnema.pro)
+- 👨‍💻 All of my projects are available at [apoorvnema.com](https://www.apoorvnema.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
